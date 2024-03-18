@@ -1,0 +1,57 @@
+.c1{
+    height: 1000px;
+    background-image: url("c1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 2000px;
+
+}
+.c1 h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+    color:rgb(8, 4, 4);
+    font-weight: 700;
+    padding-left: 115px;
+    padding-top: 10%;
+}
+.c1 p {
+    font-family: Tahoma, Verdana, sans-serif;
+    color:rgb(12, 12, 12);
+    padding-left: 115px;
+}
+.c2{
+    padding-left: 115px; 
+}
+.container h3 {
+    font-family: "Aclonica";
+    font-size: 34px;
+    font-weight: 900;
+}
+.c3 h3{
+    font-family: Tahoma, Verdana, sans-serif;  
+}
+.c3{
+    background-color: black;
+    display: flex;
+    padding: 20px;
+    padding-left: 160px;
+    margin: 30px;
+    border: 20px solid rgb(250, 248, 248);
+    border-radius: 35px;
+    box-shadow: 0 4px 28px 0 rgba(0, 0, 0, 0.5), 0 6px 29px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.c4{
+    color: rgb(3, 3, 3);
+}  
+.col-md-4 {
+    padding-left: 115px;
+    padding-right: 115px;
+}  
+.so{
+    font-family: "Aclonica";
+    color: rgb(209, 183, 183);
+}
+
+h3,p{
+    color: aliceblue;
+}
